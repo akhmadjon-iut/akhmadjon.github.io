@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p{
+    
+}
+	
+
+p {
+    color: blue;
+}
+body{
+	background-color: rgb(255, 255, 255);
+	 background-repeat: repeat-x;
+    width: 1000px;
+    padding: 50px;
+    border: 5px solid rgb(255, 255, 255);
+    margin: 10px;
+    text-align: center;
+
+}
+         
+}
+div {
+    background-color: rgb(29, 0, 248);
+    width: 40px;
+    border: 0;
+    padding: 0;
+    margin: 10px;
+}
+h1 {
+	color: red;
+	font-size: 300%;
+}
+h2 {
+	color: blue;
+	font-size: 200%;
+}
+
+
+
+</style>
+</head>
+</html>
